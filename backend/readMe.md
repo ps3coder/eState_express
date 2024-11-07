@@ -1,1 +1,8 @@
-Hellow
+npx prisma db push
+
+<!-- mongoDB account -->
+ss5596
+
+<!-- Register -->
+completed
+auth.controller.js
