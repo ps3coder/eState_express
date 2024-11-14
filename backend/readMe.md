@@ -13,6 +13,6 @@ git add .
 git commit -m ""
 git push origin main
 
-
+npx prisma db push
 
 
